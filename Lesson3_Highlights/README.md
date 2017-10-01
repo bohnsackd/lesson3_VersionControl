@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+10 1, 2017
 
 ## Student Name:  
-(First and Last Name)
+David Bohnsack
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assigment showed us how to create and setup a GitHub account. You also learned some basic Git commands. In this assignment I also learned the importance of a verison control.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. 
+2. 
+3. 
 
